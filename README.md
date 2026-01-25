@@ -50,9 +50,3 @@ jupyter lab
 ## Troubleshooting
 - If a model import fails, ensure the virtual environment uses a compatible Python version and the packages in `requirements.txt` installed correctly.
 - Paths in notebooks are relative; adjust `test_image`, `db_path`, and model paths if needed.
-
-## License
-This repository has no attached license. Use and modify at your own risk.
-
-## Contact
-For questions about running the notebooks, open an issue or contact the repository owner.
