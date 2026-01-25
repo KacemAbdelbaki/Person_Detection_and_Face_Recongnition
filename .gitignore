@@ -3,3 +3,12 @@ eval/yolo_eval_data/runs/
 *.pt
 venv/
 img/*
+*.png
+*.jpg
+*.jpeg
+*.txt
+src/web/frontend/.next/
+src/web/frontend/node_modules/
+*.pkl
+*.csv
+*.cache

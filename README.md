@@ -11,7 +11,7 @@ Project combining YOLO-based person/face detection with DeepFace and RetinaFace 
 1. Create and activate a Python 3.8+ virtual environment.
 2. Install dependencies:
 
-```
+```bash
 pip install -r requirements.txt
 ```
 
@@ -41,7 +41,7 @@ Notes: adjust file paths in notebooks if running from a different working direct
 ## Running locally
 1. Start Jupyter Lab / Notebook in the project root:
 
-```
+```bash
 jupyter lab
 ```
 
