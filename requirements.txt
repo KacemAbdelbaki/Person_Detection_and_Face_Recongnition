@@ -1,0 +1,7 @@
+deepface
+ultralytics
+deepface
+tf-keras
+kagglehub
+scikit-learn
+retina-face

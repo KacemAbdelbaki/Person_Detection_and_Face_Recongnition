@@ -1,0 +1,5 @@
+eval/yolo_eval_data/data/
+eval/yolo_eval_data/runs/
+*.pt
+venv/
+img/*

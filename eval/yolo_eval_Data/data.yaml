@@ -1,0 +1,6 @@
+# Auto-generated for People detection (one class)
+train: ./data/images/train
+val: ./data/images/val
+
+nc: 1
+names: ['person']
